@@ -61,6 +61,8 @@ The Movie Recommendation System is a machine learning-based application that hel
 - Docker and Docker Compose — Application containerization.
 - Render — Cloud deployment.
 
+##Command to run the application in terminal:python -m streamlit run app/streamlit_app.py 
+
 ## 🚀 Application Deployment
 
 **Deployment Platform:** Streamlit Community Cloud
