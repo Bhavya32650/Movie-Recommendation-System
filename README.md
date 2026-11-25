@@ -91,7 +91,7 @@ https://github.com/Bhavya32650/Movie-Recommendation-System
 
 The output video demonstrates the working Movie Recommendation System and its application features.
 
-**Video Path:** `output/week6-demo.mp4`
+**Video Path:** https://drive.google.com/file/d/1KTNjHAxO4Y5YZ2VUaN4bSlCD0GwzNKhM/view?usp=sharing
 
 Upload your video to the repository in an `output` folder and update the path above if you use a different filename.
 
